@@ -17,8 +17,8 @@ function App() {
         </thead>
         <tbody>
           <tr>
-            <td>Charlie</td>
-            <td>Janitor</td>
+            <td>Badsha</td>
+            <td>Coder</td>
           </tr>
           <tr>
             <td>Mac</td>
