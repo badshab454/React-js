@@ -1,6 +1,6 @@
 {
   // Theme
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Dracula",
 
   // config related to code formatting
   "editor.fontSize": 18,
